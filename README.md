@@ -7,7 +7,7 @@ On FreeCodeCamp, I completed projects that you can view by visiting my profile.
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devagn-portfolio.onrender.com/)
-[![Freecodecamp](https://img.shields.io/badge/freecodecamp-1DA1F2?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/devagn_maniya)
+[![Freecodecamp](https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/devagn_maniya)
 
 
 ## Languages
